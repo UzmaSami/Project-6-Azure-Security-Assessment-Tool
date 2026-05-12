@@ -12,8 +12,9 @@ interactive HTML report with remediation guidance.
 *Cost:* £0 — No Azure resources consumed
 
 ## Architecture
+![Architecture](docs/architecture-diagram.png)
 
-# REport Features
+# Report Features
 
 - Overall security score with grade (A-F)
 - Color coded findings (Critical/High/Medium/Low)
